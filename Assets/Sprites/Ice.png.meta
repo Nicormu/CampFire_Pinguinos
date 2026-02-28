@@ -116,9 +116,9 @@ TextureImporter:
       name: Ice_1
       rect:
         serializedVersion: 2
-        x: 239
-        y: 191
-        width: 90
+        x: 108
+        y: 13
+        width: 80
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -138,9 +138,9 @@ TextureImporter:
       name: Ice_2
       rect:
         serializedVersion: 2
-        x: 239
-        y: 98
-        width: 90
+        x: 211
+        y: 13
+        width: 80
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -157,12 +157,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ice_3
+      name: Ice_0
       rect:
         serializedVersion: 2
-        x: 240
-        y: 5
-        width: 90
+        x: 11
+        y: 11
+        width: 80
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -172,8 +172,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9148cb6d98e1e904ea7e8e49e206bd34
-      internalID: -580811036
+      spriteID: 0b339abdb600b1544bf94b8b0e8f766e
+      internalID: -7560284153744367771
       vertices: []
       indices: 
       edges: []
@@ -194,25 +194,11 @@ TextureImporter:
       - key: SpriteEditor.SliceOnImport
         value: False
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":110.0,"y":90.0},"gridSpriteOffset":{"x":115.0,"y":5.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":80.0,"y":80.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Ice_0: -7560284153744367771
       Ice_1: 534025365
-      Ice_11: 1411532420
-      Ice_12: -1466182152
-      Ice_13: 1274468981
-      Ice_14: -1719925216
-      Ice_16: -56662362
-      Ice_17: -1272442417
-      Ice_18: 303469600
-      Ice_19: -1110164817
       Ice_2: 1470085354
-      Ice_3: -580811036
-      Ice_4: 1837384185
-      Ice_6: -46247573
-      Ice_7: -439825571
-      Ice_8: -91676725
-      Ice_9: 405409562
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
