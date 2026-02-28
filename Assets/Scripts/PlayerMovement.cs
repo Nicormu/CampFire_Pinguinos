@@ -37,7 +37,7 @@ public class PlayerMovemente : MonoBehaviour
         {
             sr.flipX = false;
         }
-        
+
         AnimatorManager();
         Sprint();
         rb.linearVelocity = new Vector2(movementX * speed, rb.linearVelocity.y);
