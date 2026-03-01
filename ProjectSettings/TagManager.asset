@@ -5,16 +5,20 @@ TagManager:
   serializedVersion: 3
   tags:
   - Platform
+<<<<<<< Updated upstream
   - Ice
+=======
+  - Enemy
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - 'Personaje '
   - Water
   - UI
-  - 
-  - 
+  - suelo
+  - "cient\xEDfico"
   - 
   - 
   - 

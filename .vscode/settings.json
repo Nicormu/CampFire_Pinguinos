@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "CampfireBogotaZoologic.slnx"
+    "dotnet.defaultSolution": "CampFire_Pinguinos.slnx"
 }
