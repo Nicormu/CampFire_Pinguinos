@@ -14,8 +14,11 @@ public class PlayerMovemente : MonoBehaviour
 
     public float jumpForce = 10.0f;
 
-    public bool isColliding = false;
-    
+    [Header("Grounded Settings")]
+    public Transform groundCheck;      // Create an empty child at penguin's feet and drag it here
+    public float checkRadius = 0.2f;   // Small circle size
+    public LayerMask groundLayer;      // Set this to the layer your Tilemap is on
+    private bool isGrounded;           // Replaces isColliding for jumping logic
 
     void Start()
     {
@@ -24,9 +27,11 @@ public class PlayerMovemente : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
+        // Check if the feet are touching the ground layer
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, groundLayer);
+
         movementX = Input.GetAxisRaw("Horizontal");
 
         if (movementX < 0)
@@ -40,31 +45,19 @@ public class PlayerMovemente : MonoBehaviour
 
         AnimatorManager();
         Sprint();
+        
         rb.linearVelocity = new Vector2(movementX * speed, rb.linearVelocity.y);
-        if (Input.GetKeyDown(KeyCode.Space)){
-            Jump();
-        }
-    }
-
-
-    void OnCollisionEnter2D(Collision2D collision)
-    {
-            if (collision.gameObject.tag == "Platform")
-            {
-                isColliding = true;
-            }
-    }
-    void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.gameObject.tag == "Platform")
+        
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            isColliding = false;
+            Jump();
         }
     }
 
     void Jump()
     {
-        if (isColliding)
+        // Now it only jumps if the groundCheck is actually touching the floor
+        if (isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
@@ -101,5 +94,14 @@ public class PlayerMovemente : MonoBehaviour
             animator.SetBool("isRunning", false);
         }
     }
-
+    
+    // Draw the circle in the editor so you can see where the "feet" are
+    private void OnDrawGizmosSelected()
+    {
+        if (groundCheck != null)
+        {
+            Gizmos.color = Color.red;
+            Gizmos.DrawWireSphere(groundCheck.position, checkRadius);
+        }
+    }
 }
