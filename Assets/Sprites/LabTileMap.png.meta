@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 7308dbd1aa14e8140890de29c740609b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6905500729380108561
+    second: LabTileMap_0
+  - first:
+      213: 7773181649062599886
+    second: LabTileMap_1
+  - first:
+      213: 7197910627642425657
+    second: LabTileMap_2
+  - first:
+      213: -3585534307369158588
+    second: LabTileMap_3
+  - first:
+      213: -618777909732006084
+    second: LabTileMap_4
+  - first:
+      213: -1226111175101166046
+    second: LabTileMap_5
+  - first:
+      213: 3192712460619731821
+    second: LabTileMap_6
+  - first:
+      213: 7683006350954521552
+    second: LabTileMap_7
+  - first:
+      213: 1831369200774473427
+    second: LabTileMap_8
+  - first:
+      213: -2530046095204430302
+    second: LabTileMap_9
+  - first:
+      213: 383726362836607033
+    second: LabTileMap_10
+  - first:
+      213: 8799537668583547502
+    second: LabTileMap_11
+  - first:
+      213: 5126553542426484427
+    second: LabTileMap_12
+  - first:
+      213: 7491938215492010861
+    second: LabTileMap_13
+  - first:
+      213: -4672497719489334485
+    second: LabTileMap_14
+  - first:
+      213: -3885328770209424340
+    second: LabTileMap_15
+  - first:
+      213: 7733794656362927485
+    second: LabTileMap_16
+  - first:
+      213: 6265688789279511299
+    second: LabTileMap_17
+  - first:
+      213: -6324157906390164971
+    second: LabTileMap_18
+  - first:
+      213: -3087954931256058525
+    second: LabTileMap_19
+  - first:
+      213: 3639533975571770012
+    second: LabTileMap_20
+  - first:
+      213: -6938228107918626918
+    second: LabTileMap_21
+  - first:
+      213: 5455109349436531130
+    second: LabTileMap_22
+  - first:
+      213: 5657023197671548424
+    second: LabTileMap_23
+  - first:
+      213: -1910952791614778196
+    second: LabTileMap_24
+  - first:
+      213: 4168462663600030367
+    second: LabTileMap_25
+  - first:
+      213: 3994536828651760568
+    second: LabTileMap_26
+  - first:
+      213: 1129373910597312603
+    second: LabTileMap_27
+  - first:
+      213: -2288616551037598248
+    second: LabTileMap_28
+  - first:
+      213: -7232764092296935779
+    second: LabTileMap_29
+  - first:
+      213: -7920449583987164614
+    second: LabTileMap_30
+  - first:
+      213: -2011832084567784704
+    second: LabTileMap_31
+  - first:
+      213: -7797746368124929575
+    second: LabTileMap_32
+  - first:
+      213: -3296201290482352212
+    second: LabTileMap_33
+  - first:
+      213: -7560633228887973271
+    second: LabTileMap_34
+  - first:
+      213: -7636527899645849038
+    second: LabTileMap_35
+  - first:
+      213: 8626005245124444262
+    second: LabTileMap_36
+  - first:
+      213: -589866785316246757
+    second: LabTileMap_37
+  - first:
+      213: 8920108263551102264
+    second: LabTileMap_38
+  - first:
+      213: -2374687582301134100
+    second: LabTileMap_39
+  - first:
+      213: 833266730743468305
+    second: LabTileMap_40
+  - first:
+      213: -9103629734466182501
+    second: LabTileMap_41
+  - first:
+      213: -1995109965444874499
+    second: LabTileMap_42
+  - first:
+      213: -8488834853077059470
+    second: LabTileMap_43
+  - first:
+      213: 3528803699312350657
+    second: LabTileMap_44
+  - first:
+      213: -5024446289125215266
+    second: LabTileMap_45
+  - first:
+      213: -3676381444573696851
+    second: LabTileMap_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LabTileMap_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 626
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119f6e2935445df50800000000000000
+      internalID: 6905500729380108561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 806
+        width: 320
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc16f69683efdb60800000000000000
+      internalID: 7773181649062599886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 830
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931c2a5649d14e360800000000000000
+      internalID: 7197910627642425657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 623
+        width: 146
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448f84f5b8f9d3ec0800000000000000
+      internalID: -3585534307369158588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 828
+        width: 227
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37a09ff4c8a967f0800000000000000
+      internalID: -618777909732006084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 631
+        width: 163
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e45f8e16afbfee0800000000000000
+      internalID: -1226111175101166046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_6
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 614
+        width: 149
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63d335311bce4c20800000000000000
+      internalID: 3192712460619731821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 824
+        width: 458
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3e6b3e1958f9a60800000000000000
+      internalID: 7683006350954521552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 595
+        width: 322
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6e0c8c5945a6910800000000000000
+      internalID: 1831369200774473427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_9
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 834
+        width: 147
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ec9fd2b7873ecd0800000000000000
+      internalID: -2530046095204430302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_10
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 629
+        width: 140
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93024db0815435500800000000000000
+      internalID: 383726362836607033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_11
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 794
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62679b33ec3e1a70800000000000000
+      internalID: 8799537668583547502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_12
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 603
+        width: 315
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bced952094d252740800000000000000
+      internalID: 5126553542426484427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_13
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 815
+        width: 267
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63439dec16b8f760800000000000000
+      internalID: 7491938215492010861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 622
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f3008414f72fb0800000000000000
+      internalID: -4672497719489334485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 356
+        width: 138
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cdf00a11a841ac0800000000000000
+      internalID: -3885328770209424340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 350
+        width: 91
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75935ab345f35b60800000000000000
+      internalID: 7733794656362927485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 355
+        width: 124
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303172eb1c234f650800000000000000
+      internalID: 6265688789279511299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 337
+        width: 123
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ad22614e31c38a0800000000000000
+      internalID: -6324157906390164971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 331
+        width: 152
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d1118c9516525d0800000000000000
+      internalID: -3087954931256058525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_20
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 345
+        width: 161
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aabe12ed8328230800000000000000
+      internalID: 3639533975571770012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_21
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 333
+        width: 166
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f21e0db4676bf90800000000000000
+      internalID: -6938228107918626918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_22
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 448
+        width: 162
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1a3180d0174bb40800000000000000
+      internalID: 5455109349436531130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_23
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 427
+        width: 426
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8066b5740a8c18e40800000000000000
+      internalID: 5657023197671548424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_24
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 351
+        width: 200
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca492498f8eea75e0800000000000000
+      internalID: -1910952791614778196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_25
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 367
+        width: 194
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92cb5305ba59d930800000000000000
+      internalID: 4168462663600030367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 224
+        width: 221
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbe00ae4127f6730800000000000000
+      internalID: 3994536828651760568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 335
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b502fb786975caf00800000000000000
+      internalID: 1129373910597312603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 51
+        width: 94
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d503585f533d30e0800000000000000
+      internalID: -2288616551037598248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_29
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 52
+        width: 90
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96c07ef06f00ab90800000000000000
+      internalID: -7232764092296935779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_30
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 188
+        width: 155
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3afd055119e41290800000000000000
+      internalID: -7920449583987164614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_31
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0
+        width: 191
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0038a93d0698414e0800000000000000
+      internalID: -2011832084567784704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 327
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9325f0ef6d8c390800000000000000
+      internalID: -7797746368124929575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 249
+        width: 401
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf7d9ce36a8142d0800000000000000
+      internalID: -3296201290482352212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_34
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 207
+        width: 70
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9622e13e22c331790800000000000000
+      internalID: -7560633228887973271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_35
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 208
+        width: 74
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232df38d55a950690800000000000000
+      internalID: -7636527899645849038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 153
+        width: 201
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6608c42611ab5b770800000000000000
+      internalID: 8626005245124444262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 208
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b6c64b84f50d7f0800000000000000
+      internalID: -589866785316246757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 152
+        width: 259
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d6df674379acb70800000000000000
+      internalID: 8920108263551102264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 48
+        width: 249
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2e86cb93a6b0fd0800000000000000
+      internalID: -2374687582301134100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_40
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 43
+        width: 82
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1119d114dab509b00800000000000000
+      internalID: 833266730743468305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_41
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 49
+        width: 84
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92a5765df869a180800000000000000
+      internalID: -9103629734466182501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_42
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 45
+        width: 212
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfef0d59e02ff44e0800000000000000
+      internalID: -1995109965444874499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_43
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 5
+        width: 163
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278f2694da9913a80800000000000000
+      internalID: -8488834853077059470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_44
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 23
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5d893a444d8f030800000000000000
+      internalID: 3528803699312350657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed379af78b4954ab0800000000000000
+      internalID: -5024446289125215266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTileMap_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dace851fd8edafcc0800000000000000
+      internalID: -3676381444573696851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5b896cc60acb42a4d8ab2b3731dbc380
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LabTileMap_0: 6905500729380108561
+      LabTileMap_1: 7773181649062599886
+      LabTileMap_10: 383726362836607033
+      LabTileMap_11: 8799537668583547502
+      LabTileMap_12: 5126553542426484427
+      LabTileMap_13: 7491938215492010861
+      LabTileMap_14: -4672497719489334485
+      LabTileMap_15: -3885328770209424340
+      LabTileMap_16: 7733794656362927485
+      LabTileMap_17: 6265688789279511299
+      LabTileMap_18: -6324157906390164971
+      LabTileMap_19: -3087954931256058525
+      LabTileMap_2: 7197910627642425657
+      LabTileMap_20: 3639533975571770012
+      LabTileMap_21: -6938228107918626918
+      LabTileMap_22: 5455109349436531130
+      LabTileMap_23: 5657023197671548424
+      LabTileMap_24: -1910952791614778196
+      LabTileMap_25: 4168462663600030367
+      LabTileMap_26: 3994536828651760568
+      LabTileMap_27: 1129373910597312603
+      LabTileMap_28: -2288616551037598248
+      LabTileMap_29: -7232764092296935779
+      LabTileMap_3: -3585534307369158588
+      LabTileMap_30: -7920449583987164614
+      LabTileMap_31: -2011832084567784704
+      LabTileMap_32: -7797746368124929575
+      LabTileMap_33: -3296201290482352212
+      LabTileMap_34: -7560633228887973271
+      LabTileMap_35: -7636527899645849038
+      LabTileMap_36: 8626005245124444262
+      LabTileMap_37: -589866785316246757
+      LabTileMap_38: 8920108263551102264
+      LabTileMap_39: -2374687582301134100
+      LabTileMap_4: -618777909732006084
+      LabTileMap_40: 833266730743468305
+      LabTileMap_41: -9103629734466182501
+      LabTileMap_42: -1995109965444874499
+      LabTileMap_43: -8488834853077059470
+      LabTileMap_44: 3528803699312350657
+      LabTileMap_45: -5024446289125215266
+      LabTileMap_46: -3676381444573696851
+      LabTileMap_5: -1226111175101166046
+      LabTileMap_6: 3192712460619731821
+      LabTileMap_7: 7683006350954521552
+      LabTileMap_8: 1831369200774473427
+      LabTileMap_9: -2530046095204430302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
