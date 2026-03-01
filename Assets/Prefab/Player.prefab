@@ -13,9 +13,12 @@ GameObject:
   - component: {fileID: 8035939881264328636}
   - component: {fileID: 3383673906093701456}
   - component: {fileID: 8030152361869832516}
+  - component: {fileID: 8902028032987716431}
+  - component: {fileID: 1209397859225767188}
+  - component: {fileID: 6214045352048171000}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29,7 +32,7 @@ Transform:
   m_GameObject: {fileID: 2762837806849484751}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.16, y: -2.88, z: 0}
+  m_LocalPosition: {x: -1.2, y: -2.94, z: 0}
   m_LocalScale: {x: 0.14007173, y: 0.1349556, z: 0.9999999}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -160,3 +163,67 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &8902028032987716431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2762837806849484751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aae9d77f4124e9c4cbb04b9dab2e36af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Points
+  points: 0
+--- !u!70 &1209397859225767188
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2762837806849484751}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.1110985, y: 0.2467923}
+  m_Size: {x: 5.6420984, y: 9.186529}
+  m_Direction: 0
+--- !u!114 &6214045352048171000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2762837806849484751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 333f2483675d7b94cba5e704cc171054, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerDead
+  enemyTag: Enemy
+  deathAnimTrigger: PenguinDie

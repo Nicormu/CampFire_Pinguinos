@@ -9,7 +9,6 @@ public class Menu : MonoBehaviour
         SceneManager.LoadScene(1); 
     }
 
-    // Por si quieres añadir un botón de "Salir" en tu menú de laboratorio
     public void QuitGame()
     {
         Debug.Log("Saliendo del laboratorio...");
